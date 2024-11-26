@@ -1,0 +1,7 @@
+C:\VisualStudioProjeleri\CSharpEgitimKampi\08_Methods\bin\Debug\08_Methods.exe.config
+C:\VisualStudioProjeleri\CSharpEgitimKampi\08_Methods\bin\Debug\08_Methods.exe
+C:\VisualStudioProjeleri\CSharpEgitimKampi\08_Methods\bin\Debug\08_Methods.pdb
+C:\VisualStudioProjeleri\CSharpEgitimKampi\08_Methods\obj\Debug\08_Methods.csproj.AssemblyReference.cache
+C:\VisualStudioProjeleri\CSharpEgitimKampi\08_Methods\obj\Debug\08_Methods.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjeleri\CSharpEgitimKampi\08_Methods\obj\Debug\08_Methods.exe
+C:\VisualStudioProjeleri\CSharpEgitimKampi\08_Methods\obj\Debug\08_Methods.pdb
