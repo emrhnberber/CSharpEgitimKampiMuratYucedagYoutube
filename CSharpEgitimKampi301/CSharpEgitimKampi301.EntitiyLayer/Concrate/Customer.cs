@@ -20,5 +20,7 @@ namespace CSharpEgitimKampi301.EntitiyLayer.Concrate
         public virtual Category Category { get; set; }
 
         public List<Order> Orders { get; set; }
+
+        public bool CustomerStatus { get; set; }
     }
 }
