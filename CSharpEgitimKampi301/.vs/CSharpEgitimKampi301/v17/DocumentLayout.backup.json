@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{096AC0A1-5250-4DB8-B4D3-DE7C5C200424}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\visualstudioprojeleri\\csharpegitimkampimuratyucedagyoutube\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{096AC0A1-5250-4DB8-B4D3-DE7C5C200424}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98FDAA12-A6DF-479A-BC8A-48FC90D62F21}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|c:\\visualstudioprojeleri\\csharpegitimkampimuratyucedagyoutube\\csharpegitimkampi301\\csharpegitimkampi301.dataaccesslayer\\abstract\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FDAA12-A6DF-479A-BC8A-48FC90D62F21}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|solutionrelative:csharpegitimkampi301.dataaccesslayer\\abstract\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{096AC0A1-5250-4DB8-B4D3-DE7C5C200424}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\visualstudioprojeleri\\csharpegitimkampimuratyucedagyoutube\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{096AC0A1-5250-4DB8-B4D3-DE7C5C200424}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{98FDAA12-A6DF-479A-BC8A-48FC90D62F21}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\csharpegitimkampi301.dataaccesslayer\\abstract\\iorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FDAA12-A6DF-479A-BC8A-48FC90D62F21}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|solutionrelative:csharpegitimkampi301.dataaccesslayer\\abstract\\iorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{096AC0A1-5250-4DB8-B4D3-DE7C5C200424}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\visualstudioprojeleri\\csharpegitimkampimuratyucedagyoutube\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{096AC0A1-5250-4DB8-B4D3-DE7C5C200424}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{98FDAA12-A6DF-479A-BC8A-48FC90D62F21}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\csharpegitimkampi301.dataaccesslayer\\abstract\\iadmindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FDAA12-A6DF-479A-BC8A-48FC90D62F21}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|solutionrelative:csharpegitimkampi301.dataaccesslayer\\abstract\\iadmindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FDAA12-A6DF-479A-BC8A-48FC90D62F21}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\csharpegitimkampi301.dataaccesslayer\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FDAA12-A6DF-479A-BC8A-48FC90D62F21}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|solutionrelative:csharpegitimkampi301.dataaccesslayer\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FDAA12-A6DF-479A-BC8A-48FC90D62F21}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\csharpegitimkampi301.dataaccesslayer\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FDAA12-A6DF-479A-BC8A-48FC90D62F21}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|solutionrelative:csharpegitimkampi301.dataaccesslayer\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FDAA12-A6DF-479A-BC8A-48FC90D62F21}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\csharpegitimkampi301.dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FDAA12-A6DF-479A-BC8A-48FC90D62F21}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|solutionrelative:csharpegitimkampi301.dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C2C4B4-1EC7-417F-9C91-B936C4ACFBF7}|CSharpEgitimKampi301.EntitiyLayer\\CSharpEgitimKampi301.EntitiyLayer.csproj|C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\csharpegitimkampi301.entitiylayer\\concrate\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C2C4B4-1EC7-417F-9C91-B936C4ACFBF7}|CSharpEgitimKampi301.EntitiyLayer\\CSharpEgitimKampi301.EntitiyLayer.csproj|solutionrelative:csharpegitimkampi301.entitiylayer\\concrate\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FDAA12-A6DF-479A-BC8A-48FC90D62F21}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\csharpegitimkampi301.dataaccesslayer\\migrations\\202412052023119_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FDAA12-A6DF-479A-BC8A-48FC90D62F21}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|solutionrelative:csharpegitimkampi301.dataaccesslayer\\migrations\\202412052023119_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,39 +51,99 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\Form1.cs",
-              "ToolTip": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs*",
-              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\Form1.cs*",
-              "ViewState": "AgIAADoAAAAAAAAAAAAmwFEAAAAtAAAAAAAAAA==",
+              "Title": "ICustomerDal.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\ICustomerDal.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\ICustomerDal.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\ICustomerDal.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\ICustomerDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T22:26:27.364Z",
+              "WhenOpened": "2024-12-05T21:10:47.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\Form1.cs",
-              "ToolTip": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs [Design]*",
-              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\Form1.cs [Design]*",
+              "Title": "IOrderDal.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IOrderDal.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IOrderDal.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IOrderDal.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IOrderDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T22:23:31.878Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-05T21:09:58.554Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Model1.edmx",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\Model1.edmx",
-              "ToolTip": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\Model1.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-12-12T21:56:52.058Z",
-              "EditorCaption": " [Diagram1]"
+              "Title": "IAdminDal.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IAdminDal.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IAdminDal.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IAdminDal.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IAdminDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T21:09:25.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductDal.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IProductDal.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IProductDal.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IProductDal.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IProductDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T21:08:53.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryDal.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\ICategoryDal.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\ICategoryDal.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\ICategoryDal.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\ICategoryDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T21:08:19.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericDal.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:35:53.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "202412052023119_mig1.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Migrations\\202412052023119_mig1.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.DataAccessLayer\\Migrations\\202412052023119_mig1.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Migrations\\202412052023119_mig1.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.DataAccessLayer\\Migrations\\202412052023119_mig1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:23:17.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EntitiyLayer\\Concrate\\Customer.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EntitiyLayer\\Concrate\\Customer.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EntitiyLayer\\Concrate\\Customer.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.EntitiyLayer\\Concrate\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:22:12.703Z"
             }
           ]
         }
