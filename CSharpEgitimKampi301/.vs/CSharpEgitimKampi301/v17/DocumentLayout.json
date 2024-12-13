@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{98FDAA12-A6DF-479A-BC8A-48FC90D62F21}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|c:\\visualstudioprojeleri\\csharpegitimkampimuratyucedagyoutube\\csharpegitimkampi301\\csharpegitimkampi301.dataaccesslayer\\abstract\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98FDAA12-A6DF-479A-BC8A-48FC90D62F21}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|solutionrelative:csharpegitimkampi301.dataaccesslayer\\abstract\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,6 +34,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{98FDAA12-A6DF-479A-BC8A-48FC90D62F21}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\csharpegitimkampi301.dataaccesslayer\\migrations\\202412052023119_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98FDAA12-A6DF-479A-BC8A-48FC90D62F21}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|solutionrelative:csharpegitimkampi301.dataaccesslayer\\migrations\\202412052023119_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{096AC0A1-5250-4DB8-B4D3-DE7C5C200424}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\visualstudioprojeleri\\csharpegitimkampimuratyucedagyoutube\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\frmlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096AC0A1-5250-4DB8-B4D3-DE7C5C200424}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\frmlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096AC0A1-5250-4DB8-B4D3-DE7C5C200424}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\visualstudioprojeleri\\csharpegitimkampimuratyucedagyoutube\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\frmlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{096AC0A1-5250-4DB8-B4D3-DE7C5C200424}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\frmlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -51,6 +60,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< Updated upstream
               "Title": "ICustomerDal.cs",
               "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\ICustomerDal.cs",
               "RelativeDocumentMoniker": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\ICustomerDal.cs",
@@ -59,11 +69,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T21:10:47.01Z",
+=======
+              "Title": "FrmLocation.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwEIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:36:17.403Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< Updated upstream
               "Title": "IOrderDal.cs",
               "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IOrderDal.cs",
               "RelativeDocumentMoniker": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\IOrderDal.cs",
@@ -144,6 +165,16 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T20:22:12.703Z"
+=======
+              "Title": "FrmLocation.cs [Design]",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmLocation.cs [Design]",
+              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\FrmLocation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:27:20.11Z",
+              "EditorCaption": " [Design]"
+>>>>>>> Stashed changes
             }
           ]
         }
