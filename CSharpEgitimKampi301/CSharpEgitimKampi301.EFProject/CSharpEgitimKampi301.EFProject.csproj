@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{096AC0A1-5250-4DB8-B4D3-DE7C5C200424}</ProjectGuid>
+    <ProjectGuid>{C2B5ED16-2572-4D1C-88E0-32F4555B1851}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>CSharpEgitimKampi301.EFProject</RootNamespace>
     <AssemblyName>CSharpEgitimKampi301.EFProject</AssemblyName>
@@ -150,8 +150,6 @@
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="NewFolder1\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

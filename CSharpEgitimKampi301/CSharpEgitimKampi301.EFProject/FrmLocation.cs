@@ -23,22 +23,22 @@ namespace CSharpEgitimKampi301.EFProject
         {
             var values = db.Location.ToList();
             dataGridView1.DataSource = values;
+
         }
 
         private void FrmLocation_Load(object sender, EventArgs e)
         {
             var values = db.Guide.Select(x => new
             {
-                FullName = x.GuideName + " " + x.GuideSurname,
-                x.GuideId
+                FullName = x.GuideName + " " + x.GuideSurname, x.GuideId
             }).ToList();
+
             cmbGuide.DisplayMember = "FullName";
             cmbGuide.ValueMember = "GuideId";
             cmbGuide.DataSource = values;
         }
 
-
-        private void btnAdd_Click_1(object sender, EventArgs e)
+        private void btnAdd_Click(object sender, EventArgs e)
         {
             Location location = new Location();
             location.Capacity = byte.Parse(nudCapacity.Value.ToString());
@@ -49,16 +49,15 @@ namespace CSharpEgitimKampi301.EFProject
             location.GuideId = int.Parse(cmbGuide.SelectedValue.ToString());
             db.Location.Add(location);
             db.SaveChanges();
-            MessageBox.Show("İşlem Başarılı.");
+            MessageBox.Show("Ekleme Başarılı!");
         }
 
         private void btnDelete_Click(object sender, EventArgs e)
         {
-            var id = int.Parse(txtId.Text);
+            int id = int.Parse(txtId.Text);
             var deletedValue = db.Location.Find(id);
-            db.Location.Remove(deletedValue);
             db.SaveChanges();
-            MessageBox.Show("Silme İşlemi Başarılı!");
+            MessageBox.Show("Silme Başarılı!");
         }
 
         private void btnUpdate_Click(object sender, EventArgs e)
@@ -67,12 +66,12 @@ namespace CSharpEgitimKampi301.EFProject
             var updatedValue = db.Location.Find(id);
             updatedValue.DayNight = txtDayNight.Text;
             updatedValue.Price = decimal.Parse(txtPrice.Text);
-            updatedValue.Capacity = byte.Parse(nudCapacity.Value.ToString());
-            updatedValue.Country = txtCountry.Text;
+            updatedValue.Capacity=byte.Parse(nudCapacity.Value.ToString());
             updatedValue.City = txtCity.Text;
+            updatedValue.Country = txtCountry.Text;
             updatedValue.GuideId = int.Parse(cmbGuide.SelectedValue.ToString());
             db.SaveChanges();
-            MessageBox.Show("Güncelleme İşlemi Başarılı!");
+            MessageBox.Show("Güncelleme Başarılı!");
         }
     }
 }
