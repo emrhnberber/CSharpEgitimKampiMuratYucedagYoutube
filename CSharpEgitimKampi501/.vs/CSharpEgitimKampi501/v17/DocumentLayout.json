@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi501\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B537EE-59E4-48EC-B130-4CEA7C6ADD27}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|c:\\visualstudioprojeleri\\csharpegitimkampimuratyucedagyoutube\\csharpegitimkampi501\\csharpegitimkampi501\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B537EE-59E4-48EC-B130-4CEA7C6ADD27}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|solutionrelative:csharpegitimkampi501\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B537EE-59E4-48EC-B130-4CEA7C6ADD27}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|c:\\visualstudioprojeleri\\csharpegitimkampimuratyucedagyoutube\\csharpegitimkampi501\\csharpegitimkampi501\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B537EE-59E4-48EC-B130-4CEA7C6ADD27}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|solutionrelative:csharpegitimkampi501\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B537EE-59E4-48EC-B130-4CEA7C6ADD27}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|c:\\visualstudioprojeleri\\csharpegitimkampimuratyucedagyoutube\\csharpegitimkampi501\\csharpegitimkampi501\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B537EE-59E4-48EC-B130-4CEA7C6ADD27}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|solutionrelative:csharpegitimkampi501\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B537EE-59E4-48EC-B130-4CEA7C6ADD27}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|c:\\visualstudioprojeleri\\csharpegitimkampimuratyucedagyoutube\\csharpegitimkampi501\\csharpegitimkampi501\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B537EE-59E4-48EC-B130-4CEA7C6ADD27}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|solutionrelative:csharpegitimkampi501\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B537EE-59E4-48EC-B130-4CEA7C6ADD27}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|c:\\visualstudioprojeleri\\csharpegitimkampimuratyucedagyoutube\\csharpegitimkampi501\\csharpegitimkampi501\\dtos\\resultproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B537EE-59E4-48EC-B130-4CEA7C6ADD27}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|solutionrelative:csharpegitimkampi501\\dtos\\resultproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B537EE-59E4-48EC-B130-4CEA7C6ADD27}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|c:\\visualstudioprojeleri\\csharpegitimkampimuratyucedagyoutube\\csharpegitimkampi501\\csharpegitimkampi501\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8B537EE-59E4-48EC-B130-4CEA7C6ADD27}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|solutionrelative:csharpegitimkampi501\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi501\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "CSharpEgitimKampi501\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T11:27:01.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi501\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "CSharpEgitimKampi501\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T11:18:07.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Dtos\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi501\\Dtos\\UpdateProductDto.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Dtos\\UpdateProductDto.cs",
+              "RelativeToolTip": "CSharpEgitimKampi501\\Dtos\\UpdateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T11:14:19.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Dtos\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi501\\Dtos\\CreateProductDto.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Dtos\\CreateProductDto.cs",
+              "RelativeToolTip": "CSharpEgitimKampi501\\Dtos\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T11:13:09.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultProductDto.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Dtos\\ResultProductDto.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi501\\Dtos\\ResultProductDto.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Dtos\\ResultProductDto.cs",
+              "RelativeToolTip": "CSharpEgitimKampi501\\Dtos\\ResultProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T11:11:22.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Form1.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi501\\Form1.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Form1.cs [Design]",
+              "RelativeToolTip": "CSharpEgitimKampi501\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T10:40:25.065Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

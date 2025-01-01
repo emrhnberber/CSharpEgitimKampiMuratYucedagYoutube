@@ -9,5 +9,6 @@ namespace CSharpEgitimKampi301.BusinessLayer.Abstruct
 {
     public interface IProductService:IGenericService<Product>
     {
+        List<Object> TGetProductsWithCategory();
     }
 }
