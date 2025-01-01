@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2B5ED16-2572-4D1C-88E0-32F4555B1851}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\visualstudioprojeleri\\csharpegitimkampimuratyucedagyoutube\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\frmlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2B5ED16-2572-4D1C-88E0-32F4555B1851}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\frmlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0E67A62-14A8-4F0D-9853-060F09B0F992}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|c:\\visualstudioprojeleri\\csharpegitimkampimuratyucedagyoutube\\csharpegitimkampi301\\csharpegitimkampi301.presentationlayer\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E67A62-14A8-4F0D-9853-060F09B0F992}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|solutionrelative:csharpegitimkampi301.presentationlayer\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2B5ED16-2572-4D1C-88E0-32F4555B1851}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\visualstudioprojeleri\\csharpegitimkampimuratyucedagyoutube\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\frmlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C2B5ED16-2572-4D1C-88E0-32F4555B1851}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\frmlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2B5ED16-2572-4D1C-88E0-32F4555B1851}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\visualstudioprojeleri\\csharpegitimkampimuratyucedagyoutube\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C2B5ED16-2572-4D1C-88E0-32F4555B1851}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2B5ED16-2572-4D1C-88E0-32F4555B1851}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\visualstudioprojeleri\\csharpegitimkampimuratyucedagyoutube\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{C2B5ED16-2572-4D1C-88E0-32F4555B1851}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{F0E67A62-14A8-4F0D-9853-060F09B0F992}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|c:\\visualstudioprojeleri\\csharpegitimkampimuratyucedagyoutube\\csharpegitimkampi301\\csharpegitimkampi301.presentationlayer\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0E67A62-14A8-4F0D-9853-060F09B0F992}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|solutionrelative:csharpegitimkampi301.presentationlayer\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,51 +27,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmLocation.cs",
-              "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
-              "ToolTip": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
-              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAkwCAAAAAsAAAAAAAAAA==",
+              "Title": "FrmCategory.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.PresentationLayer\\FrmCategory.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.PresentationLayer\\FrmCategory.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.PresentationLayer\\FrmCategory.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.PresentationLayer\\FrmCategory.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAnwDoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T20:54:03.085Z",
+              "WhenOpened": "2024-12-31T20:21:49.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FrmLocation.cs [Design]",
-              "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
-              "ToolTip": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmLocation.cs [Design]",
-              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\FrmLocation.cs [Design]",
+              "Title": "FrmCategory.cs [Design]",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.PresentationLayer\\FrmCategory.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.PresentationLayer\\FrmCategory.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.PresentationLayer\\FrmCategory.cs [Design]",
+              "RelativeToolTip": "CSharpEgitimKampi301.PresentationLayer\\FrmCategory.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T20:46:07.758Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\App.config",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\App.config",
-              "ToolTip": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\App.config",
-              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-12-27T20:45:25.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\Form1.cs",
-              "ToolTip": "C:\\VisualStudioProjeleri\\CSharpEgitimKampiMuratYucedagYoutube\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs [Design]",
-              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T20:11:04.347Z",
+              "WhenOpened": "2024-12-31T19:56:12.745Z",
               "EditorCaption": " [Design]"
             }
           ]

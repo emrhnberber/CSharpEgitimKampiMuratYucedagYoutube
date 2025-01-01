@@ -10,8 +10,7 @@ namespace CSharpEgitimKampi301.EntitiyLayer.Concrate
     {
         public int CategoryId { get; set; }
 
-        public int CategoryName { get; set; }
-
+        public string CategoryName { get; set; }
         public bool CategoryStatus { get; set; }
 
         public List<Product> Products { get; set; }
